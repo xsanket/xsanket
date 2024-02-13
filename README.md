@@ -13,7 +13,7 @@ and a basic grasp of HTML, CSS, and JavaScript.
 - 👨‍💻 All of my projects are available at <a href="[https://www.java.com](https://github.com/xsanket?tab=repositories)" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="GitHub" width="20" height="20"/> </a> 
 - 📫 How to reach me **xsanketkamble@gmail.com**
 
-- ⚡ Fun fact **I am funny 😅**
+- ⚡ Fun fact **I hate coding 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
