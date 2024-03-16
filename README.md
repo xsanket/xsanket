@@ -9,8 +9,7 @@ I am a recent PG-DAC diploma graduate with expertise in Java, Spring Boot, MySQL
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" >
 
-- 👨‍💻 All of my projects are available at <a href="[https://www.java.com](https://github.com/xsanket?tab=repositories)" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="GitHub" width="20" height="20"/> </a> 
-- 📫 How to reach me **xsanketkamble@gmail.com**
+- 📫 you can contact me **xsanketkamble@gmail.com**
 
 - ⚡ Fun fact **I hate coding 😅**
 
