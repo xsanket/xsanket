@@ -4,8 +4,7 @@
 
 <h3 align="left">About Me ✍️:</h3>
 <p align="left">
-I am a recent PG-DAC diploma graduate with expertise in Java, Spring Boot, MySQL, ReactJS, C#, .NET, 
-and a basic grasp of HTML, CSS, and JavaScript.
+I am a recent PG-DAC diploma graduate with expertise in Java, Spring Boot, MySQL and MERN stack .
 </P>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" >
