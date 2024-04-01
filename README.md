@@ -11,7 +11,7 @@ I am a recent PG-DAC diploma graduate with expertise in Java, Spring Boot, MySQL
 
 - 📫 you can contact me **xsanketkamble@gmail.com**
 
-- ⚡ Fun fact **I hate coding 😅**
+- ⚡ Fun fact **I love dogs 🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
